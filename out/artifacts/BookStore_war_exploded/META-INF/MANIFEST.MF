@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: Sen
+Implementation-Vendor-Id: 华夏书城
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_144
+Specification-Version: 1.0-SNAPSHOT
+
